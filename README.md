@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Luca
+### Hi there 👋  I'm Luca
 
 ### About me
 
