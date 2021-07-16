@@ -3,6 +3,6 @@
 ### About me
 
 - 🖥️   Frontend developer
-- 🌱   I'm currently learning Vue
-- ❓   Stack Overflow active member
+- 🔥   My personal website: [lucaprevitali.dev](https://lucaprevitali.dev/)
+- ❓   Stack Overflow [active member](https://stackoverflow.com/users/5572406/the-previ)
 - 📫   Reach me at: **[lucaprevi@gmail.com](lucaprevi@gmail.com)**
