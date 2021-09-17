@@ -3,6 +3,4 @@
 
 - 📝  Sometimes I write articles on [https://dev.to/the_previ](https://dev.to/the_previ)
 
-- 📫  Reach me at **lucaprevi@gmail.com**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaprevitali&show_icons=true&locale=en" alt="lucaprevitali" /></p>
