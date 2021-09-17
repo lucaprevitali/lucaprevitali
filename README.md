@@ -1,8 +1,8 @@
-### Hi there 👋  I'm Luca
+<h1 align="center">Hi 👋, I'm Luca</h1>
+<h3 align="center">A passionate Javascript developer from Italy</h3>
 
-### About me
+- 📝  Sometimes I write articles on [https://dev.to/the_previ](https://dev.to/the_previ)
 
-- 🖥️   Frontend developer
-- 🔥   My personal website: [lucaprevitali.dev](https://lucaprevitali.dev/)
-- ❓   Stack Overflow [active member](https://stackoverflow.com/users/5572406/the-previ)
-- 📫   Reach me at: **[lucaprevi@gmail.com](lucaprevi@gmail.com)**
+- 📫  Reach me at **lucaprevi@gmail.com**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaprevitali&show_icons=true&locale=en" alt="lucaprevitali" /></p>
